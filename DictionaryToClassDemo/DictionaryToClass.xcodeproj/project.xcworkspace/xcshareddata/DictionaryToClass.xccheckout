@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9D83647A-EAA3-41FA-8030-E1B44D42C7B5</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DictionaryToClass</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1C9C9359-C098-4214-8C12-B3CFC3949E7B</key>
+		<string>https://github.com/Dracuuula/DictionaryToClass.git</string>
+		<key>659DF007-96F3-4C74-A4B5-7EBF839ADC18</key>
+		<string>https://github.com/Dracuuula/DictionaryToClass.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>DictionaryToClassDemo/DictionaryToClass.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1C9C9359-C098-4214-8C12-B3CFC3949E7B</key>
+		<string>../../..</string>
+		<key>659DF007-96F3-4C74-A4B5-7EBF839ADC18</key>
+		<string>../../DictionaryToClass</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Dracuuula/DictionaryToClass.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1C9C9359-C098-4214-8C12-B3CFC3949E7B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1C9C9359-C098-4214-8C12-B3CFC3949E7B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DictionaryToClass</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>659DF007-96F3-4C74-A4B5-7EBF839ADC18</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DictionaryToClass</string>
+		</dict>
+	</array>
+</dict>
+</plist>
